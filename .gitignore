@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+dist/
+.next/
+out/
+web/public/__ENV.js
+.env.*
+.env*.local
+.eslintcache
